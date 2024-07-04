@@ -9,10 +9,10 @@ const Home = () => {
     return (
         <div className='min-h-screen'>
             <Banner></Banner>
-            <Skills></Skills>
-          <Projects></Projects>
-          <Education></Education>
-          <Contact></Contact>
+            <Skills id='skill'></Skills>
+            <Projects></Projects>
+            <Education></Education>
+            <Contact></Contact>
         </div>
     );
 };
