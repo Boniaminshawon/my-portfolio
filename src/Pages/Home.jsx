@@ -8,8 +8,9 @@ import Skills from "../Components/Skills";
 const Home = () => {
     return (
         <div className='min-h-screen'>
+           
             <Banner></Banner>
-            <Skills id='skill'></Skills>
+            <Skills></Skills>
             <Projects></Projects>
             <Education></Education>
             <Contact></Contact>
