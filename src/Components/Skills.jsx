@@ -16,7 +16,7 @@ const Skills = () => {
                 <FaReact className="text-sky-500"></FaReact> 
                 
             </div>
-            <div className="flex justify-center text-7xl gap-4 mt-6">
+            <div className="flex justify-center  text-7xl gap-4 mt-6">
             <FaNode></FaNode>
                 <SiMongodb className="text-green-700"></SiMongodb>
                 <FaGithub></FaGithub>
